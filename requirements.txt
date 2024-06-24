@@ -1,0 +1,11 @@
+streamlit 
+langchain
+langchain_experimental
+google-generativeai
+langchain_google_genai
+python-dotenv
+pandas
+tabulate
+matplotlib
+plotly
+seaborn
